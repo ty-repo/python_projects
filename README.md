@@ -1,1 +1,3 @@
-# python_projects
+# python_projects 
+
+A collection of random python projects 
